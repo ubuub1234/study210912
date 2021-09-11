@@ -41,7 +41,7 @@ function App(){
   ]);
   
   const [inputTodo,setInputTodo] = useState('할 일 입력');
-  //컴포넌트 리턴, 컴포넌트로 이루어진 배열을 리턴할 수 있다.
+  //컴포넌트 리턴, 컴포넌트로 이루어진 배열을 리턴할 수 있다.11111
   return (
     //화면의 변화가 일어나기 때문에
     <SafeAreaView style = {styles.container}>
