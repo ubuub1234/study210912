@@ -47,6 +47,15 @@ const styles = StyleSheet.create({
     },
     bt01 : {
 
+    },
+    Check : {
+        marginLeft : 4,
+        marginRight : 20,
+    },
+    Check_Text : {
+        fontSize :24
+
+
     }
 
 
